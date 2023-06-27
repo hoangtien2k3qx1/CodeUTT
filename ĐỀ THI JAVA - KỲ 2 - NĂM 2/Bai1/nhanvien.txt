@@ -1,0 +1,3 @@
+Hoang Tien$2003-04-12$123 Nam Tu Liem, City$Nam$Sales$1.5$5$2000.0$
+Quoc Cuong$1990-08-15$456 Ha Dong, City$Nam$Marketing$1.7$3$2500.0$
+Hoang Quoc$1988-08-15$456 Thanh Xuan, City$Nam$Marketing$1.7$3$1345.0$
